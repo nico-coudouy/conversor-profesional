@@ -1,0 +1,11 @@
+# Binarios de FFmpeg (se copian a mano para generar el .exe)
+bin/
+# PyInstaller
+build/
+dist/
+*.exe
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
